@@ -30,21 +30,20 @@ List of deliverable systems:
 #High level requirements
 - Keep an online educational system that offers
 
-- A user management system able of creating, selecting, editing, and deleting a user. Furthermore it also must remember the user's password, allow the log in and log out operations.
+- A user management system 
 
-- A questionnaire management system capable of creating, editing, deleting, and selecting a questionnaire, made of questions (of course). A question of the generated questionnaire must be of one of the following types:
-  - question with multiple choice, without multiple selection
-  - question with multiple choice, with multiple selection
-  - question with descriptive answer
+- A questionnaire management system
 
--  A class visualization system that allows the user to watch a tutorial and links the tutorial to a questionnaire.
+-  A class visualization system 
 
-- A questionnaire execution system capable of viewing a list of available questions in a given time. The questionnaire execution system must also correct the user's answers. The overall process output must be the grade of the user on a given questionnaire and their grade on each question.
+- A questionnaire execution system
 
-- A ranking system that compares the user's grades on the various questionnaires and put them in a descendant order.
+- A ranking system 
 
 - Available online 24/7.
+
 - Provides a good user experience on using the system through the application of animations and dynamic selection using JQuery, HTML5, CSS3, and Bootstrap on the front-end.
+
 - Identify the user's weaknesses and strengths through mapping the user's into categories according to the question's specifications.
 
 
