@@ -74,7 +74,7 @@ Possible changes on the project scope. A few changes can happen in case a new id
 
 
 #Project schedule and landmarks
-<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/11041419_10203863339119967_347454244_n.jpg?oh=c3ecb0571468c4c4c82fdfa3a57aee6d&oe=551C8FED&__gda__=1427956761_3fa06c9acb522ed6c930c1ef0db7a852" alt="Cognos_Landmarks">
+<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/11106402_10203863516764408_2041574971_n.jpg?oh=986d808cb8cbc73a8f0eb9a80894e66a&oe=551CCFF5&__gda__=1427948132_4186600d57f35ca3ba8ca8662c54e6a3" alt="Landmarks">
 
 
 #List of stakeholders
