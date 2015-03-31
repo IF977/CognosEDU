@@ -1,8 +1,12 @@
 <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/11106280_10203861269348224_1253930900_n.jpg?oh=958f25b709790330b052abab71a4a01a&oe=551D2451&__gda__=1427919296_242f35cb272311d4ad91ad55ff6a1fc8" alt="Cognos_Logo">
 ___
-The project charter must define the project general description as well as the product specification. In details, the elements that must be presented on the project charter are:
-Project motivation
-A description of the problem that motivates the implementation of CognosEdu.
+
+#Project motivation
+  Education is a important need in a society, through it is possible to generate people more aware of their role as citizens, as well to encourage them to act in roles in the society that will enrich the environment which they are included , both financially and the intelectual/cultural level.
+  Over time were created techniques, methodologies and teaching models in order to optimize and adapt the education in the (diferente) context in wich it operates, nowdays it’s  a very disseminated and improved theme, although not plenty exploited in some education institutions.
+  As a result of it, several tools are created and sold to these instituitions with the objective of improve the learning capabilities of their students, but the results are just the opposite, and these tools became just barriers, a good learning tool must, before showing that the user is wrong, show him how to fix it.	
+  Under these circumstances, we present the CognosEDU, a distance education system aimed to Middle and High school students, which has the objective of effectively advance the learning capabilities and solidify the essencial knowledge of these students.
+ Much more than simply give information for someone,hoping somehow he learn it , we believe that the way which that information is passed is crucial, thus CognosEDU cannot be seen as a simply university entrance exam preparatory course, we aim to create something constant in   students' life, that more then teach has to serve as support to them and the school
 ____
 #Mensurable goals of this project 
 Global: To deliver an educational system capable of managing students grades in questionnaires and quizzes, tagging, and ranking the student's performances.
