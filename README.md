@@ -26,7 +26,7 @@ List of deliverable systems:
 #High level requirements
 - Keep an online educational system that offers
 
-A user management system able of creating, selecting, editing, and deleting a user. Furthermore it also must remember the user's password, allow the log in and log out operations.
+- A user management system able of creating, selecting, editing, and deleting a user. Furthermore it also must remember the user's password, allow the log in and log out operations.
 
 - A questionnaire management system capable of creating, editing, deleting, and selecting a questionnaire, made of questions (of course). A question of the generated questionnaire must be of one of the following types:
   - question with multiple choice, without multiple selection
