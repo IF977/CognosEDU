@@ -1,0 +1,12 @@
+Link da aplicação no heroku = www.cognosedu.com
+	Observações: Ao realizar o deploy no heroku algumas funcionalidades com JavaScript(Questionários), bem como alguns elementos de Bootstrap(Home page)
+			não funcionam corretamente, para usar todas as funções do sistema corretamente o grupo sugere que usem o link
+			 da aplicação no Cloud 9
+
+
+
+
+Link da aplicação no Cloud9 = https://testes-marcosn-2.c9.io/
+	Observações: Visto que o envio de emails só funciona no modo de produção (Heroku), para realizar o login na aplicação sugerimos entrar com as seguintes credenciais:
+			Email: marcos@marcos.com
+			  Senha: foobar
